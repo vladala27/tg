@@ -1,4 +1,4 @@
-# Task Manager Bot
+# Бот для заметок @Vladalarionovabot
 
 ## Описание
 
