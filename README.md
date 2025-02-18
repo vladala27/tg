@@ -6,7 +6,7 @@
 
 ## Ссылка на бота
 
-Вы можете начать использовать бота прямо сейчас, перейдя по ссылке: [Task Manager Bot](https://t.me/your_bot_username)
+Вы можете начать использовать бота прямо сейчас, перейдя по ссылке: [@Vladalarionovabot](https://t.me/@Vladalarionovabot)
 
 ## Основные функции
 
